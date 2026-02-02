@@ -11,5 +11,10 @@ This project demonstrates a simple Godot 4.6 scene where "HELLO WORLD" Is displa
 ## Setup Instructions
 
 1. Clone the repository:
-   '''bash
 	git clone https://github.com/CharaPuffy/Simple-Scene-with-a-moving-node
+
+## Gameplay Demo Screenshot
+
+This image shows gameplay of letters being dragged and rearranged by dragging them around. Uses physics and mouse integration.
+
+![Gameplay Screenshot](screenshots/demo.png)
