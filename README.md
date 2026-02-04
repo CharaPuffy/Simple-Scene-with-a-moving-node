@@ -12,7 +12,7 @@ A small project featuring a code-generated "HELLO WORLD" with drag-and-click phy
 The repository itself contains the files of the Godot project (except screenshots). To run, you can either clone the repository or download the .ZIP file of the repository.
 
 Clone:
-1. git clone https://github.com/username/repo.git
+1. git clone https://github.com/CharaPuffy/Simple-Scene-with-a-moving-node
 2. In Godot's Project Manager, Import the cloned repository.
 3. Open the game and play.
 
