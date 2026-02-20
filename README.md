@@ -1,4 +1,4 @@
-# Simple Scene with a Moving Node (Godot 4.6) Week 2 Activity 1 Game play Mechanics!
+# Simple Scene with a Moving Node (Godot 4.6) Week 1 and Week 2 Activity 1 Game play Mechanics!
 
 ## Overview
 A small project featuring a code-generated "HELLO WORLD" with drag-and-click physics and gravity. 
